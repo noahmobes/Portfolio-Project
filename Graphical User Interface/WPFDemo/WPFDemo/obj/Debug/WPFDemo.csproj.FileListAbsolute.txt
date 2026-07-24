@@ -1,0 +1,80 @@
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.Cache
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\rob82_000\Dropbox\STEMULUSCourse\ASPNET\C6WPF\Day15Chapter35CoreWPF\Demo\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\rob82_000\Dropbox\CNM\2017Spring\CIS1280\LessonPlans\Day18WPFDialogues\WPFDialogDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.Cache
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe.config
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\StudentWindow.baml
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.g.cs
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\StudentWindow.g.cs
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\Noah\OneDrive\Documents\Coding Projects\School\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.baml
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe.config
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\StudentWindow.baml
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.g.cs
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\StudentWindow.g.cs
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.baml
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\noahmobes\OneDrive\Documents\Coding Projects\School\Fall 2025\.NET I - C#\Module 5\WPFDemo\WPFDemoStarter\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe.config
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\StudentWindow.baml
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.g.cs
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\StudentWindow.g.cs
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\SchoolWindow.baml
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Dev\Portfolio Project\Graphical User Interface\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb

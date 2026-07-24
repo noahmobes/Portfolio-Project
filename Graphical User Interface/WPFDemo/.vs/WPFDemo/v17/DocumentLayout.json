@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\studentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\studentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\studentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|c:\\dev\\portfolio project\\graphical user interface\\wpfdemo\\wpfdemo\\schoolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\schoolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\schoolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\schoolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\wpfdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DCA8BBC-BE60-4568-A7FB-D98E786CC73D}|WPFDemo\\WPFDemo.csproj|solutionrelative:wpfdemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\SchoolWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\SchoolWindow.xaml.cs",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\SchoolWindow.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\SchoolWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:55:24.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\StudentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\StudentWindow.xaml.cs",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\StudentWindow.xaml.cs",
+              "RelativeToolTip": "WPFDemo\\StudentWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:53:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentWindow.xaml",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\StudentWindow.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\StudentWindow.xaml",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\StudentWindow.xaml",
+              "RelativeToolTip": "WPFDemo\\StudentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:47:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\Student.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\Student.cs",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\Student.cs",
+              "RelativeToolTip": "WPFDemo\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:58:45.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolWindow.xaml",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\SchoolWindow.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\SchoolWindow.xaml",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\SchoolWindow.xaml",
+              "RelativeToolTip": "WPFDemo\\SchoolWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:51:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\School.cs",
+              "RelativeDocumentMoniker": "WPFDemo\\School.cs",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\School.cs",
+              "RelativeToolTip": "WPFDemo\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:50:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeDocumentMoniker": "WPFDemo\\App.xaml",
+              "ToolTip": "C:\\Dev\\Portfolio Project\\Graphical User Interface\\WPFDemo\\WPFDemo\\App.xaml",
+              "RelativeToolTip": "WPFDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:52:37.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
